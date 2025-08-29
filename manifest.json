@@ -2,7 +2,7 @@
   "name": "PWA 应用",
   "short_name": "PWA",
   "description": "PWA桌面应用",
-  "start_url": "./",
+  "start_url": "https://linmengdun.github.io/pwa/",
   "scope": "./",
   "display": "standalone",
   "theme_color": "#42b883",
